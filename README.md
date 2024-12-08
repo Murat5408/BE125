@@ -1,3 +1,3 @@
 # BE125
 
-## Sliconmade academy
+## Siliconmade academy
